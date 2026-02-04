@@ -19,8 +19,8 @@ It allows users to register, log in securely, add car details, and book car wash
 ## Features
 - User authentication and authorization using JWT
 - Role-based access for users, admin and washer
-- Admin:- To add and update the washer
-- User:- Booking and upading of car information
+- Admin:- To add and update, delete the washer
+- User:- Booking of car and payment
 - Washer:- To collect and proceed the order and view ratings 
 - Secure online payment integration
 - Microservices architecture with service discovery
