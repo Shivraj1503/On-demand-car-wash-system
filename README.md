@@ -27,5 +27,5 @@ It allows users to register, log in securely, add car details, and book car wash
 - API documentation using Swagger
 
 ## Architecture
-The system follows a microservices architecture with independent services such as User Service, Booking Service, Payment Service, and Admin Service, connected through an API Gateway and registered with Eureka Server.
+The system follows a microservices architecture with independent services such as User Service, Booking Service, Payment Service, washer Service and Admin Service, connected through an API Gateway and registered with Eureka Server.
 
